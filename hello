@@ -1,1 +1,2 @@
-" Hi Leila"
+name = "Leila"
+echo "Hi $(name)"
