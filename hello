@@ -1,2 +1,3 @@
-name = "Leia"
-echo "Hi $(name)"
+#!/bin/bash
+NAME = "Leia"
+echo "Hi ${NAME}"
